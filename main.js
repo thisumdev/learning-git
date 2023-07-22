@@ -1,1 +1,1 @@
-// Add js here
+console.log("Hello gti and git hub");
